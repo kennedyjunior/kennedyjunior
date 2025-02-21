@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shafarik&weight=500&size=21&pause=1000&color=D56CF7&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 --> Atulmente estudando 
 <img align="center" alt="K-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
