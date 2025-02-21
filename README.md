@@ -8,3 +8,4 @@
 
 ![kennedyjunior](https://github-readme-stats.vercel.app/api?username=kennedyjunior&show_icons=true&theme=cobalt)
 
+![animesher com_killua-gif-killua-zoldyck-1999741](https://github.com/user-attachments/assets/e5c9a3e7-62f4-4971-9d48-435a98aa4912)
