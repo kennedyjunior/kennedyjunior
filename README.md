@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Shafarik&weight=500&size=21&pause=1000&color=D56CF7&width=435&lines=Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 --> Atulmente estudando 
+entusiasta em hacking e web security
 <img align="center" alt="K-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="K-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="K-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
